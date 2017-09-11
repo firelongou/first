@@ -1,2 +1,2 @@
 # first
-This is my first Rep.
+This is my first Repo.
